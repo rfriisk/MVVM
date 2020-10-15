@@ -1,0 +1,6 @@
+C:\Users\raknu\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.deps.json
+C:\Users\raknu\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.dll
+C:\Users\raknu\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csprojAssemblyReference.cache
+C:\Users\raknu\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\raknu\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.AssemblyInfo.cs
+C:\Users\raknu\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.dll
